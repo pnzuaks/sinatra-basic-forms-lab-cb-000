@@ -1,7 +1,7 @@
 class Puppy
   attr_accessor :name, :breed, :age
 
-  def initialize(na)
-    @text = text.downcase
+  def initialize(name, breed, age)
+    @name = name :breed, :age
   end
 end
